@@ -27,47 +27,6 @@ A Java Swing-based desktop application that helps manage grocery store operation
 
 ---
 
-# Interface Showcase
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-**Login Screen**
-
-<img src="images/login.png" width="100%"/>
-
-</td>
-
-<td width="50%" align="center">
-
-**Admin Dashboard**
-
-<img src="images/admin_dashboard.png" width="100%"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-**Customer Dashboard**
-
-<img src="images/customer_dashboard.png" width="100%"/>
-
-</td>
-
-<td width="50%" align="center">
-
-**Billing Window**
-
-<img src="images/billing.png" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
 
 # Key Features
 
