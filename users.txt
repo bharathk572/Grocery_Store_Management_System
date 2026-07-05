@@ -1,0 +1,4 @@
+
+admin,admin123,ADMIN
+admin1,admin1,ADMIN
+user1,user1,CUSTOMER

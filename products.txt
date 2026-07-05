@@ -1,0 +1,4 @@
+Apple,Fruits,50.00,5
+Carrot,Vegetables,10.00,0
+Milk,Dairy,40.00,18
+Pen,Stationaries,5.00,16
